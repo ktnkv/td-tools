@@ -1,0 +1,16 @@
+# Whitelist: the bundle, its manifest, scripts and tests.
+*
+!*/
+!.gitignore
+!README.md
+!CHANGELOG.md
+!LICENSE
+!tools.json
+!Tools.*.tox
+!scripts/*.py
+!tests/*.py
+!tests/README.md
+
+# Local: the tool repositories cloned inside, downloaded releases.
+/td-*/
+/build/

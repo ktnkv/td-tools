@@ -1,0 +1,29 @@
+{
+  "version": "0.1.0",
+  "tools": [
+    {
+      "title": "Menu Step",
+      "name": "menustep",
+      "repo": "ktnkv/td-par-menu-step",
+      "tox": "MenuStep",
+      "version": "0.1.0",
+      "description": "Steps through a menu parameter with the arrow keys."
+    },
+    {
+      "title": "Promote",
+      "name": "promote",
+      "repo": "ktnkv/td-par-promoter",
+      "tox": "Promote",
+      "version": "0.6.4",
+      "description": "Lifts a parameter up through its ancestor COMPs in one drag."
+    },
+    {
+      "title": "Size Guard",
+      "name": "sizeguard",
+      "repo": "ktnkv/td-op-size-guard",
+      "tox": "SizeGuard",
+      "version": "0.1.2",
+      "description": "Keeps every operator tile in the network editor at one size."
+    }
+  ]
+}
